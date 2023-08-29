@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/박초영/Desktop/Codeup(c)",
-      "program": "c:/Users/박초영/Desktop/Codeup(c)/build/Debug/outDebug",
+      "cwd": "c:/Users/박초영/Desktop/Codeup/Codeup(c)",
+      "program": "c:/Users/박초영/Desktop/Codeup/Codeup(c)/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
